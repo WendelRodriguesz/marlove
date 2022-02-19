@@ -1,0 +1,10 @@
+input{
+    width: 100%;
+}
+label,h4{
+    color: white;
+}
+#login{
+    margin-top: 15%;
+    
+}
