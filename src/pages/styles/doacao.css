@@ -42,10 +42,6 @@ header{
     transition: 0.2s ease-in-out background-color;
     color: #000;
 }
-.navbar ul li #btn_parceiros{
-    margin-right: 10px;
-}
-
 .navbar ul li #btn_contato{
     text-transform: uppercase;
     background-color: #000;
